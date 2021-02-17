@@ -1519,6 +1519,7 @@ input[type="radio"]:checked + .contact-radio-label:after {
   }
 }
 .contact-footer-button {
+  border:none;
   @include mq("sm") {
     padding-left: 48px;
     padding-right: 48px;
